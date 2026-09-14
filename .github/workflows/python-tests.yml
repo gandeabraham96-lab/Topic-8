@@ -23,4 +23,4 @@ jobs:
         run: python -m pip install pytest
 
       - name: Run tests
-        run: python -m pytest Topic8_4_c1.py Topic8_4_c2.py Topic8_4_c3.py Topic8_4_p.py
+        run: python -m pytest Topic8_4_c2.py Topic8_4_c3.py Topic8_4_d.py
